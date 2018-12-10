@@ -1,4 +1,4 @@
-# Micro-seusmic-monitoring-of-a-floating-ice-plate
+# Micro-seismic-monitoring-of-a-floating-ice-plate
 The companion files are the catalog related to the processing of micro-seismic data and torque measurements presented in the manuscript 'Micro-seismic monitoring of a floating ice plate to monitor its deformation' done by C. Lachaud, D. Marsan, M. Montagnat, J. Weiss, L. Moreau and F. Gimbert
 
 Sampling frequency of the torque measurement is 10 Hz and the accuracy is 0.25Nm. It corresponds to the torque evolution of the fault after the initial rupture. 
